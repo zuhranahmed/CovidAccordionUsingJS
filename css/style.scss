@@ -87,6 +87,18 @@ section {
   border-left: 4px solid #b4b3ff;
 }
 
+.tab-3 {
+  background-color: #fff6ee;
+  margin-top: 1rem;
+  border-left: 4px solid #ffc48b;
+  a {
+    color: #333f68;
+    text-decoration: none;
+    border-bottom: 1px dotted #333f68;
+    font-weight: 500;
+  }
+}
+
 .hide {
   display: none;
 }
