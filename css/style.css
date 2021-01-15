@@ -75,8 +75,12 @@ section .accordion .accordion-tabs .tab .heading h2 {
   font-weight: 700;
 }
 
-section .accordion .accordion-tabs .tab .heading img {
+section .accordion .accordion-tabs .tab .heading .open {
   width: 1.5rem;
+}
+
+section .accordion .accordion-tabs .tab .heading .close {
+  width: 1.2rem;
 }
 
 section .accordion .accordion-tabs .tab .details {
